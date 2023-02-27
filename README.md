@@ -11,3 +11,4 @@ repositório direccionado para atividade proposta com o protótipo pelo figma
     R: pensei numa categoria chamado "Por dentro da periferia" Onde no proprio site teria noticias, ajuda, beneficios entre outros fatores para que as pessoas em periferia pudessem ter um interesse maior no site. No meu próprio protótipo coloquei uns exemplos como seria. Por fim para chamar atenção do publico jovens teria categorias chamado "memes" onde estaria meme,trend virais nas redes sociais hoje em dia.
         
         
+LINK DO FIGMA: https://www.figma.com/file/pPZFN8qE7QgeWW82A6Hzlx/prot%C3%B3tipo-The-New-York-Times?node-id=0%3A1&t=D7FRTXJQUezBMWeD-1
